@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Balibilly-Design
-- 👀 I’m interested in typography
-- 🌱 I’m currently learning type design
-- 💞️ I’m looking to collaborate on custom font develop
+- Hi, I’m @Balibilly-Design
+- I’m interested in typography
+- I’m currently learning type design
+- I’m looking to collaborate on custom font develop
 - 📫 billnatih9@gmail.com
 
 <!---
